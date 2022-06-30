@@ -1,14 +1,13 @@
 [![MasterHead](https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png)](https://HarshitaMathpal.io)
 <h1 align="center">Hi 👋, I'm Harshita Mathpal</h1>
-<h3 align="center">A Passionate Coder :-)</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitamathpal&label=Profile%20views&color=0e75b6&style=flat" alt="harshitamathpal" /> </p>
 
 
-- 🔭 I’m currently working on **Java & DSA.**
+- 🔭 I’m currently working on **Logic Building & DSA.**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **Java & Problem Solving**
 
 - 💬 Ask me about **Java, DSA**
 
