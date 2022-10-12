@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mathpalharshita45@gmail.com**
 
-- ⚡ Fun fact **I sometimes dance too.**
+- ⚡ Fun fact **I'm good in dance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
